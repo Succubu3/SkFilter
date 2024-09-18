@@ -1,8 +1,0 @@
-name: SkFilter
-version: '1.0-SNAPSHOT'
-main: net.succubu3.skfilter
-api-version: '1.19'
-authors: [ Succubu3 ]
-description: Filter out stuff faster and easier with a powerful system
-depend:
-  - Skript
