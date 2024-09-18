@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkFilter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkFilter_jar</output-path>
+    <root id="archive" name="SkFilter.jar">
+      <element id="module-output" name="SkFilter" />
+    </root>
+  </artifact>
+</component>
