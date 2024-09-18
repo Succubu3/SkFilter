@@ -31,3 +31,5 @@ on chat:
         cancel event
         send "&cYour message contains prohibited language and has been blocked!" to player
 ```
+
+Support Discord: https://dsc.gg/scriptifymc
